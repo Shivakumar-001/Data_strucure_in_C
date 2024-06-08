@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<conio.h>
 int fib(int n)
-void main()
+
 {
 		if(n==0)
 		{
